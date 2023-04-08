@@ -1,0 +1,29 @@
+{
+  "partyToAgreement": [
+    {
+      "agreement": {
+        "hostAgreementNum": "0060341254",
+        "typeName": "TD RELATIONSHIP CHECKING",
+        "sourceAgreementTypeCd": "IM",
+        "product": {
+          "productId": "635",
+          "productName": "635-TD RELATIONSHIP CHECKING"
+        },
+        "balanceTypeMetric": [
+          {
+            "typeCd": "AvailableBalance",
+            "cccyamt": {
+              "amount": 45068.89
+            }
+          }
+        ],
+        "fisExtension": {
+          "bankContolNum": "086",
+          "bankContolNum": "011",
+          "bankContolNum": "000",
+          "bankContolNum": "000"
+        }
+      }
+    }
+  ]
+}
